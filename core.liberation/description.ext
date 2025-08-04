@@ -24,7 +24,7 @@ reviveMode = 0;
 disabledAI = true;
 enableDebugConsole = 1;
 allowFunctionsLog = 0;
-forceRotorLibSimulation = 2;
+forceRotorLibSimulation = 1;
 
 saving = 0;
 briefing = 0;
